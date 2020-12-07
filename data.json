@@ -1,0 +1,22 @@
+[ {
+  "@class" : "sample.Models.Alcohol",
+  "volume" : 100,
+  "id" : 1,
+  "strength" : 40,
+  "type" : "vodka",
+  "description" : "Водка.Крепость: 40"
+}, {
+  "@class" : "sample.Models.Soda",
+  "volume" : 200,
+  "id" : 2,
+  "bubbles" : 25,
+  "type" : "Cola",
+  "description" : "Cola.Количество пузыриков: 25"
+}, {
+  "@class" : "sample.Models.Juice",
+  "volume" : 300,
+  "id" : 3,
+  "hasPulp" : true,
+  "type" : "Orange",
+  "description" : "Сок  апельсиновый.С мякотью"
+} ]
